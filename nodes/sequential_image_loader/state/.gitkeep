@@ -1,0 +1,2 @@
+# This file ensures the state directory is preserved in git
+# State files will be created at runtime 

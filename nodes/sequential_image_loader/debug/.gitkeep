@@ -1,0 +1,2 @@
+# This file ensures the debug directory is preserved in git
+# Debug files will be created at runtime 
