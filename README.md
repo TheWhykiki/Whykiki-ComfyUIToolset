@@ -136,4 +136,4 @@ Beiträge sind willkommen! Bitte erstellen Sie einen Issue oder Pull Request auf
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die Datei [LICENSE](LICENSE) für Details. 
+Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die Datei [LICENSE](LICENSE) für Details.
