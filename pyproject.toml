@@ -1,0 +1,15 @@
+[project]
+name = "whykiki-comfyuitoolset"
+description = "A collection of useful nodes for ComfyUI that provide various workflow enhancements."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["pillow", "numpy", "torch", "torchvision"]
+
+[project.urls]
+Repository = "https://github.com/TheWhykiki/Whykiki-ComfyUIToolset"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Whykiki-ComfyUIToolset"
+Icon = ""
